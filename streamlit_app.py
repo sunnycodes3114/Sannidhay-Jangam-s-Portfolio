@@ -722,7 +722,7 @@ elif page == "💻 Projects":
             </div>
             <h3>GitHub</h3>
             <p><a href="https://github.com/sannidhayj20/MudraMingle" target="_blank" class="github-link">MudraMingle GitHub</a></p>
-            <h3>Kaggle</h3>
+            <h3>Live Deployed Demo</h3>
             <p><a href="https://mudra-mingle.streamlit.app/" target="_blank" class="kaggle-link">Demo Link</a></p>
             <h3>Images</h3>
             <div class="image-container">
