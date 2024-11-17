@@ -1,6 +1,8 @@
 
 # Sannidhay Jangam's Portfolio
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sannidhay-jangam-portfolio.streamlit.app/)
+
+
 Welcome to my personal portfolio! This web application is built using Streamlit and showcases my journey as an aspiring Data Scientist and AI Enthusiast. Below you will find various sections detailing my background, education, experience, projects, skills, hackathons, and certifications.
 
 ## Table of Contents
