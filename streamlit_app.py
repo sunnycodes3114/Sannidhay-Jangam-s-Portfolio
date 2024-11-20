@@ -643,7 +643,7 @@ elif page == "💻 Projects":
             <p><a href="https://www.kaggle.com/code/sannidhayjangam/multimodal-sentiment-classification-highest-acc" target="_blank" class="kaggle-link">FusionNet Kaggle</a></p>
             <h3>Images</h3>
             <div class="image-container">
-                <img src="https://www.kaggleusercontent.com/kf/206702748/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ups7jAzR3ldkkmVAScJywQ.1Ls90YLoAi_YJa14ZU8hbIuWK5LiCAqAT2nTsRHMh62ADK0NZgwot_8KKg4KKI7i5BfRmwPoZUBSNLIp7Uwp6Y3VsiO6jmyr8BdOFBAn0JdiSxywi4qnaC8SF4C_uNwkwxMz40MCGfbVEsASy0QRGekOXyd1NAYvW07LXy8XrdZmQY2LDPM2j-T479gePHyo-N00bOcJrHN4gXzY_RYaUkVZdbHIHtCDivfSh2IR8g1tHvBPldU4xSyCj14u4OiK2gMqxjyqQ4U3Rq9ryaGE78Ylw82bE2z25BCkCV-dtmkwiU8T8CbtUddg49jLJb3OHQdfm0jGT7FDUdtwD2SPWp88l9-Y9xiYCIBj5Vn7R-JvhOgQBePAszmvYWScfNQnGw2pSoDYMoGphgcDpbbjLpk9tnOHWjl1NTEdvsZEDRdxlaDF_XcyYWXQ8jIjeE_L_i9X69W9klwH5YvJYQVjYhV6tnETE1qLPE4hbjpljrUKwo92BUgp1qXrGjuOkJuRjGWuEKFAkjay4L5_V3_7HzdaPkT6PtOfogqU00KmKkY_jtIG0QP18Gd05AFSpxZWlJbWN_N0I92nEAFZIeiu1lxsd0oft0jBldSnXoBO3qpbucxXPWeVeX5npJxM4KnN_9ljRXY51qHZjH_c7hXHnJozuGldxsb9vnWrndzIGh3-H1s1mjwHEcBq7V5-IBfr.RywjccNmfFyaE07r6cR4kQ/__results___files/__results___23_7.png" />
+                <img src="https://media.licdn.com/dms/image/v2/D562DAQEX7ZGJjdRE8Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1732105662959?e=1732712400&v=beta&t=D0wX_DLDbqcQvvg6womNzKIosMzvZLGJ0sicrxXUbhQ" />
             </div>
         """, unsafe_allow_html=True)
 
