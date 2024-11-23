@@ -886,7 +886,8 @@ elif page == "🏆 Hackathons":
         st.markdown('<p class="section-title">Hackathons & Competitions I have taken part in</p>', unsafe_allow_html=True)
     
         competitions = [
-            ("VIVID 2023 Hackathon Winner:", "We Were the sole winner in Our Category and we Developed an AI-driven note-taking system using NLP and computer vision to capture lecture content."),
+            ("VIVID 2023 Hackathon Winner:", "Sole winner in Our Category ,Developed an AI-driven note-taking system using NLP and computer vision to capture lecture content."),
+            (" Anna University Hackathon on Managing Misinformation 2024 Finalist:", "Devised a MultiModal Fake News Detection Model that takes inputs of Video,Audio and Images."),
             ("Smart India Hackathon 2023 Qualifier (Ideation):", "Ideated and architectured a real-time AI tool to monitor groundwater levels using deep learning. The project was in the ideation phase, where we defined the modules and techniques required but didn't build it."),
             ("EY Techathon 2023 Participant:", "Created a cancer subtype prediction model leveraging cloud-based AI systems for healthcare innovation."),
             ("Tata Innovent 2024 Participant:", "Designed an AI system for real-time detection of automotive defects using computer vision and deep learning.")
