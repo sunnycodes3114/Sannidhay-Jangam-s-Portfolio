@@ -702,7 +702,7 @@ elif page == "💻 Projects":
                 <span>Python</span>
                 <span>Keras</span>
                 <span>JAX</span>
-            </div
+            </div>
             <h3>GitHub</h3>
             <p><a href="https://github.com/sannidhayj20/Ovarian-Cancer-Subtype-Classification-UBC-Ocean.git" target="_blank" class="github-link">Ovarian Cancer Subtype GitHub</a></p>
         """, unsafe_allow_html=True)
