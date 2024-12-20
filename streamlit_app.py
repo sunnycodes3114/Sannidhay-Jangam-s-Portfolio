@@ -686,7 +686,10 @@ elif page == "💻 Projects":
             <p><a href="https://github.com/sannidhayj20/Credit-Card-Fraud-Detection" target="_blank" class="github-link">Credit Card Fraud Detection GitHub</a></p>
             <h3>Kaggle</h3>
             <p><a href="https://www.kaggle.com/code/sannidhayjangam/xgboost-classification" target="_blank" class="kaggle-link">Credit Card Fraud Detection Kaggle</a></p>
-
+            <h3>Images</h3>
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/sunnycodes3114/Sannidhay-Jangam-s-Portfolio/refs/heads/master/1732337559226.jpeg" />
+            </div>
         """, unsafe_allow_html=True)
 
     # Project 4: Ovarian Cancer Subtype Classification
@@ -726,8 +729,7 @@ elif page == "💻 Projects":
             <p><a href="https://mudra-mingle.streamlit.app/" target="_blank" class="kaggle-link">Demo Link</a></p>
             <h3>Images</h3>
             <div class="image-container">
-                <img src="https://media.licdn.com/dms/image/v2/D562DAQGm3KLRe5pU4A/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1703613299150?e=1732453200&v=beta&t=9QV-r2f6vc_kG5vBW9t-61chB6Us_n04wvbSVl7qFnY" />
-                <img src="https://media.licdn.com/dms/image/v2/D562DAQHwy_d4uGFjfw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1703613175341?e=1732453200&v=beta&t=veVkKRoneV8y0y2IThAcKXNdxULstcOyvQZQ9UlIZi8" />
+                <img src="https://raw.githubusercontent.com/sunnycodes3114/Sannidhay-Jangam-s-Portfolio/refs/heads/master/1703613242212.jpeg" />
             </div>
         """, unsafe_allow_html=True)
 
