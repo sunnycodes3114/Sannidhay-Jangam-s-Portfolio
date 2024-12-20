@@ -643,7 +643,7 @@ elif page == "💻 Projects":
             <p><a href="https://www.kaggle.com/code/sannidhayjangam/multimodal-sentiment-classification-highest-acc" target="_blank" class="kaggle-link">FusionNet Kaggle</a></p>
             <h3>Images</h3>
             <div class="image-container">
-                <img src="https://media.licdn.com/dms/image/v2/D562DAQEX7ZGJjdRE8Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1732105662959?e=1732712400&v=beta&t=D0wX_DLDbqcQvvg6womNzKIosMzvZLGJ0sicrxXUbhQ" />
+                <img src="https://raw.githubusercontent.com/sunnycodes3114/Sannidhay-Jangam-s-Portfolio/refs/heads/master/1732105662959.jpeg" />
             </div>
         """, unsafe_allow_html=True)
 
@@ -665,7 +665,7 @@ elif page == "💻 Projects":
             <p><a href="https://github.com/sannidhayj20/Car-Part-Defect-Detection" target="_blank" class="github-link">Car Part Detection GitHub</a></p>
             <h3>Images</h3>
             <div class="image-container">
-                <img src="https://media.licdn.com/dms/image/v2/D562DAQHAEWkklcSWFw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1722573533847?e=1732453200&v=beta&t=ql9wgKIxJJuxyXlCE4rM0hhKMd-RhfYXuIxo5Gmxpvw" />
+                <img src="https://raw.githubusercontent.com/sunnycodes3114/Sannidhay-Jangam-s-Portfolio/refs/heads/master/1722573522481.jpeg" />
             </div>
         """, unsafe_allow_html=True)
 
