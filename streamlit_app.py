@@ -214,7 +214,7 @@ elif page == "🎓 Education":
         """
         <div class="education-item" style="display: flex; align-items: center; margin-bottom: 20px;">
             <div class="image-container" style="width:200px; height: 100px; margin-right: 15px;">
-                <img src="https://lms.snuchennai.edu.in/pluginfile.php/1/core_admin/logo/0x200/1659422567/Shiv%20Nadar%20uni%20final%20Chennai%20.jpg" 
+                <img src="https://raw.githubusercontent.com/sunnycodes3114/Sannidhay-Jangam-s-Portfolio/refs/heads/master/Shiv%20Nadar%20uni%20final%20Chennai%20.jpg" 
                     style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);" />
             </div>
             <div>
