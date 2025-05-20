@@ -441,7 +441,7 @@ elif page == "💼 Experience":
         """
         <div class="experience-item">
             <div class="image-container">
-                <img src="https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_200_200/company-logo_200_200/0/1664197008219/hcltech_logo?e=1740009600&v=beta&t=Qcf43xJtpUb4ra8o047kiSzaO7x3SqUWqF8mJNr1yYw" />
+                <img src="https://raw.githubusercontent.com/sunnycodes3114/Sannidhay-Jangam-s-Portfolio/refs/heads/master/hcltech_logo.jpeg" />
             </div>
             <div class="experience-details">
                 <p class="company-title">HCLTech</p>
